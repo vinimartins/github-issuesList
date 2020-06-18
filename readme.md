@@ -1,4 +1,4 @@
-# API usando NodeJS!
+# Página integrando com API do Github usando NodeJS! (=
 
 ## Passo 1 - Clone o repo
 
